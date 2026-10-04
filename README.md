@@ -1,39 +1,57 @@
-# ¡Hola! Soy Diego 👋
+<h1 align="center">Diego Ayala</h1>
+<p align="center">
+  Informatics Engineering · Applied ML · Data Science<br/>
+  <sub>Lima, Perú · <a href="https://www.linkedin.com/in/diego4yala/">LinkedIn</a> · etadiegoayala17@gmail.com</sub>
+</p>
 
-Soy estudiante de 8vo ciclo de Ingeniería Informática en la PUCP, enfocado en el análisis de datos, Machine Learning y la inteligencia de negocios. Me apasiona construir modelos predictivos, optimizar bases de datos y explorar técnicas de Explainable AI.
-
-### 🛠️ Tecnologías y Herramientas
-
-**Lenguajes:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Datos y Machine Learning:**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Desarrollo y Nube:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔭 ¿Qué estoy haciendo ahora?
-- 🧠 Explorando arquitecturas de ensamblaje (LightGBM, CatBoost) y detección de *concept drift*.
-- 📊 Analizando datos espaciales y de series de tiempo mediante visualizaciones en Python (matplotlib, seaborn).
-- 🎓 Estructurando propuestas de tesis sobre Explainable AI y evaluación de riesgo crediticio.
-- ⚙️ Diseñando requerimientos y diagramas de casos de uso bajo metodologías ágiles como Scrum.
-
-### 📫 Cómo contactarme
-- [LinkedIn](https://www.linkedin.com/in/tu-enlace-aqui) <!-- ¡No olvides actualizar este enlace! -->
-- Correo: tu-correo@ejemplo.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxIDIxLjUgNi41djExTDEyIDIzIDIuNSAxNy41di0xMXoiLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiM1MTJCRDQiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTEyLjIgOC42YTQgNCAwIDEgMCAwIDYuOCIvPjxwYXRoIHN0cm9rZT0iIzUxMkJENCIgc3Ryb2tlLXdpZHRoPSIxLjIiIGQ9Ik0xNC42IDkuNXY1TTE3LjIgOS41djVNMTMuNiAxMWg0LjZNMTMuNiAxM2g0LjYiLz48L3N2Zz4=" />
+</p>
 
 ---
 
-### 📈 Mis Estadísticas en GitHub
+### About
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego4yala&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Diego" />
-</div>
+Computer Engineering undergraduate turning raw data into robust predictive systems — applied machine learning, Explainable AI (XAI), and Natural Language Processing. Currently researching transparent XAI models for credit risk assessment and exploring constrained NLP translation, while building ensemble architectures for complex spatial-temporal data.
+
+`> open to research collaboration`
+
+---
+
+### Core Skills
+
+<p align="center">
+  <img src="assets/radar-skills.svg" width="520" alt="Animated radar chart of core skills: Python, Machine Learning, Explainable AI (XAI), Natural Language Processing (NLP), SQL, Data Visualization" />
+</p>
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego4yala/diego4yala/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego4yala/diego4yala/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diego4yala/diego4yala/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center"><sub>Generated automatically every day by a GitHub Action in this repo (<code>.github/workflows/snake.yml</code>) — updates the first time the workflow runs.</sub></p>
+
+---
+
+### Featured Projects
+
+- **[Power Outage Forecasting — ENIGMA ML Competition](https://github.com/diego4yala/ENIGMA-ML-Competition)** — LightGBM multi-origin model plus a residual model for unseen zones, forecasting per-user electricity interruption hours by zone over the next 12 months. 1st place, ENIGMA ML Competition (Kaggle), RMSLE 0.82468.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego4yala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:etadiegoayala17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
