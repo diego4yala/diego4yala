@@ -17,7 +17,7 @@
 
 ### About
 
-Computer Engineering undergraduate turning raw data into robust predictive systems — applied machine learning, Explainable AI (XAI), and Natural Language Processing. Currently researching transparent XAI models for credit risk assessment and exploring constrained NLP translation, while building ensemble architectures for complex spatial-temporal data.
+Computer Engineering undergraduate turning raw data into robust predictive systems — applied machine learning, Explainable AI (XAI), and Natural Language Processing. Currently researching transparent XAI models for credit risk assessment and exploring constrained NLP translation, while building ensemble architectures for complex spatial-temporal data.  
 
 
 ---
