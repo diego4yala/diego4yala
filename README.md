@@ -1,6 +1,6 @@
 <h1 align="center">Diego Ayala</h1>
 <p align="center">
-  Computer Engineering · Applied ML · Data Science<br/>
+  Dreamer · Computer Engineering · Applied ML · Data Science<br/>
   <sub>Lima, Perú · <a href="https://www.linkedin.com/in/diego4yala/">LinkedIn</a> · etadiegoayala17@gmail.com</sub>
 </p>
 
