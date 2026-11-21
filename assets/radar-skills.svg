@@ -19,30 +19,30 @@
   </style>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#04131a"/>
-      <stop offset="60%" stop-color="#071a22"/>
-      <stop offset="100%" stop-color="#0a1f1a"/>
+      <stop offset="0%" stop-color="#07080b"/>
+      <stop offset="60%" stop-color="#0c0f15"/>
+      <stop offset="100%" stop-color="#170b0b"/>
     </linearGradient>
     <radialGradient id="glow" cx="50%" cy="55%" r="50%">
-      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#e93427" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#e93427" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="stroke" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="50%" stop-color="#34d399"/>
-      <stop offset="100%" stop-color="#facc15"/>
+      <stop offset="0%" stop-color="#7ba4ad"/>
+      <stop offset="50%" stop-color="#f2ede4"/>
+      <stop offset="100%" stop-color="#f92c1d"/>
     </linearGradient>
     <linearGradient id="fill" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.32"/>
-      <stop offset="55%" stop-color="#34d399" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#facc15" stop-opacity="0.28"/>
+      <stop offset="0%" stop-color="#7ba4ad" stop-opacity="0.32"/>
+      <stop offset="55%" stop-color="#f2ede4" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#f92c1d" stop-opacity="0.28"/>
     </linearGradient>
     <linearGradient id="beam" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#5eead4" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#5eead4" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#9fc3cb" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#9fc3cb" stop-opacity="0.35"/>
     </linearGradient>
     <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#134e4a" opacity="0.7"/>
+      <circle cx="1" cy="1" r="1" fill="#2a2d38" opacity="0.7"/>
     </pattern>
     <clipPath id="hex"><polygon points="300.0,192.0 438.6,272.0 438.6,432.0 300.0,512.0 161.4,432.0 161.4,272.0"/></clipPath>
     <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
@@ -54,24 +54,24 @@
   <rect width="600" height="640" rx="18" fill="url(#bg)"/>
   <rect width="600" height="640" rx="18" fill="url(#dots)"/>
   <rect width="600" height="640" rx="18" fill="url(#glow)"/>
-  <rect x="1" y="1" width="598" height="638" rx="17" fill="none" stroke="#134e4a" stroke-width="1.5"/>
+  <rect x="1" y="1" width="598" height="638" rx="17" fill="none" stroke="#2a2d38" stroke-width="1.5"/>
 
   <!-- terminal-style header -->
   <g transform="translate(24,26)">
-    <circle cx="0" cy="0" r="5" fill="#f87171"/><circle cx="16" cy="0" r="5" fill="#facc15"/><circle cx="32" cy="0" r="5" fill="#34d399"/>
+    <circle cx="0" cy="0" r="5" fill="#f92c1d"/><circle cx="16" cy="0" r="5" fill="#7ba4ad"/><circle cx="32" cy="0" r="5" fill="#f2ede4"/>
   </g>
-  <text x="300" y="58" text-anchor="middle" fill="#ecfeff" font-size="22" font-weight="700" letter-spacing="1"><tspan fill="#2dd4bf">&gt;</tspan> core_skills<tspan class="blink" fill="#2dd4bf">_</tspan></text>
-  <text x="300" y="82" text-anchor="middle" fill="#5eead4" font-size="11" letter-spacing="2" opacity="0.8">SELF-ASSESSED · SCALE 1 → 5 · ML / DATA</text>
+  <text x="300" y="58" text-anchor="middle" fill="#f2ede4" font-size="22" font-weight="700" letter-spacing="1"><tspan fill="#e93427">&gt;</tspan> core_skills<tspan class="blink" fill="#e93427">_</tspan></text>
+  <text x="300" y="82" text-anchor="middle" fill="#9fc3cb" font-size="11" letter-spacing="2" opacity="0.8">SELF-ASSESSED · SCALE 1 → 5 · ML / DATA</text>
 
   <!-- grid rings -->
-  <g fill="none" stroke="#1f6f68" stroke-width="1">
+  <g fill="none" stroke="#494956" stroke-width="1">
     <polygon points="300.0,320.0 327.7,336.0 327.7,368.0 300.0,384.0 272.3,368.0 272.3,336.0" opacity="0.55" stroke-dasharray="3 5"/>
     <polygon points="300.0,288.0 355.4,320.0 355.4,384.0 300.0,416.0 244.6,384.0 244.6,320.0" opacity="0.55" stroke-dasharray="3 5"/>
     <polygon points="300.0,256.0 383.1,304.0 383.1,400.0 300.0,448.0 216.9,400.0 216.9,304.0" opacity="0.55" stroke-dasharray="3 5"/>
     <polygon points="300.0,224.0 410.9,288.0 410.9,416.0 300.0,480.0 189.1,416.0 189.1,288.0" opacity="0.55" stroke-dasharray="3 5"/>
     <polygon points="300.0,192.0 438.6,272.0 438.6,432.0 300.0,512.0 161.4,432.0 161.4,272.0" opacity="0.9"/>
   </g>
-  <g fill="#2dd4bf" font-size="9" opacity="0.55">
+  <g fill="#e93427" font-size="9" opacity="0.55">
     <text x="305.0" y="331.0">1</text>
     <text x="305.0" y="299.0">2</text>
     <text x="305.0" y="267.0">3</text>
@@ -79,7 +79,7 @@
     <text x="305.0" y="203.0">5</text>
   </g>
   <!-- axes -->
-  <g stroke="#1f6f68" stroke-width="1" opacity="0.8">
+  <g stroke="#494956" stroke-width="1" opacity="0.8">
     <line x1="300" y1="352" x2="300.0" y2="192.0"/>
     <line x1="300" y1="352" x2="438.6" y2="272.0"/>
     <line x1="300" y1="352" x2="438.6" y2="432.0"/>
@@ -91,7 +91,7 @@
   <g clip-path="url(#hex)">
     <g class="sweep">
       <path d="M300,352 L300.0,182.0 A170,170 0 0 1 420.2,231.8 Z" fill="url(#beam)"/>
-      <line x1="300" y1="352" x2="420.2" y2="231.8" stroke="#5eead4" stroke-width="1.2" opacity="0.6"/>
+      <line x1="300" y1="352" x2="420.2" y2="231.8" stroke="#9fc3cb" stroke-width="1.2" opacity="0.6"/>
     </g>
   </g>
   <!-- data area -->
@@ -101,69 +101,69 @@
   </g>
   <!-- data points -->
   <g class="node" style="animation-delay:1.20s">
-    <circle class="ping" cx="300.0" cy="192.0" r="5" fill="none" stroke="#22d3ee" stroke-width="1.5" style="animation-delay:1.20s"/>
-    <circle cx="300.0" cy="192.0" r="5.5" fill="#22d3ee" stroke="#04131a" stroke-width="1.5"/>
+    <circle class="ping" cx="300.0" cy="192.0" r="5" fill="none" stroke="#7ba4ad" stroke-width="1.5" style="animation-delay:1.20s"/>
+    <circle cx="300.0" cy="192.0" r="5.5" fill="#7ba4ad" stroke="#07080b" stroke-width="1.5"/>
   </g>
   <g class="node" style="animation-delay:1.35s">
-    <circle class="ping" cx="430.3" cy="276.8" r="5" fill="none" stroke="#2dd4bf" stroke-width="1.5" style="animation-delay:1.65s"/>
-    <circle cx="430.3" cy="276.8" r="5.5" fill="#2dd4bf" stroke="#04131a" stroke-width="1.5"/>
+    <circle class="ping" cx="430.3" cy="276.8" r="5" fill="none" stroke="#e93427" stroke-width="1.5" style="animation-delay:1.65s"/>
+    <circle cx="430.3" cy="276.8" r="5.5" fill="#e93427" stroke="#07080b" stroke-width="1.5"/>
   </g>
   <g class="node" style="animation-delay:1.50s">
-    <circle class="ping" cx="408.1" cy="414.4" r="5" fill="none" stroke="#34d399" stroke-width="1.5" style="animation-delay:2.10s"/>
-    <circle cx="408.1" cy="414.4" r="5.5" fill="#34d399" stroke="#04131a" stroke-width="1.5"/>
+    <circle class="ping" cx="408.1" cy="414.4" r="5" fill="none" stroke="#f2ede4" stroke-width="1.5" style="animation-delay:2.10s"/>
+    <circle cx="408.1" cy="414.4" r="5.5" fill="#f2ede4" stroke="#07080b" stroke-width="1.5"/>
   </g>
   <g class="node" style="animation-delay:1.65s">
-    <circle class="ping" cx="300.0" cy="470.4" r="5" fill="none" stroke="#a3e635" stroke-width="1.5" style="animation-delay:2.55s"/>
-    <circle cx="300.0" cy="470.4" r="5.5" fill="#a3e635" stroke="#04131a" stroke-width="1.5"/>
+    <circle class="ping" cx="300.0" cy="470.4" r="5" fill="none" stroke="#9fc3cb" stroke-width="1.5" style="animation-delay:2.55s"/>
+    <circle cx="300.0" cy="470.4" r="5.5" fill="#9fc3cb" stroke="#07080b" stroke-width="1.5"/>
   </g>
   <g class="node" style="animation-delay:1.80s">
-    <circle class="ping" cx="172.5" cy="425.6" r="5" fill="none" stroke="#facc15" stroke-width="1.5" style="animation-delay:3.00s"/>
-    <circle cx="172.5" cy="425.6" r="5.5" fill="#facc15" stroke="#04131a" stroke-width="1.5"/>
+    <circle class="ping" cx="172.5" cy="425.6" r="5" fill="none" stroke="#f92c1d" stroke-width="1.5" style="animation-delay:3.00s"/>
+    <circle cx="172.5" cy="425.6" r="5.5" fill="#f92c1d" stroke="#07080b" stroke-width="1.5"/>
   </g>
   <g class="node" style="animation-delay:1.95s">
-    <circle class="ping" cx="183.6" cy="284.8" r="5" fill="none" stroke="#38bdf8" stroke-width="1.5" style="animation-delay:3.45s"/>
-    <circle cx="183.6" cy="284.8" r="5.5" fill="#38bdf8" stroke="#04131a" stroke-width="1.5"/>
+    <circle class="ping" cx="183.6" cy="284.8" r="5" fill="none" stroke="#c2413a" stroke-width="1.5" style="animation-delay:3.45s"/>
+    <circle cx="183.6" cy="284.8" r="5.5" fill="#c2413a" stroke="#07080b" stroke-width="1.5"/>
   </g>
   <!-- labels -->
   <g class="lbl" style="animation-delay:1.60s">
-    <text x="300.0" y="154.0" text-anchor="middle" fill="#ecfeff" font-size="13.5" font-weight="700">
+    <text x="300.0" y="154.0" text-anchor="middle" fill="#f2ede4" font-size="13.5" font-weight="700">
       <tspan x="300.0" dy="0">Python</tspan>
     </text>
-    <text x="300.0" y="170.0" text-anchor="middle" fill="#22d3ee" font-size="11" font-weight="600">5.0/5</text>
+    <text x="300.0" y="170.0" text-anchor="middle" fill="#7ba4ad" font-size="11" font-weight="600">5.0/5</text>
   </g>
   <g class="lbl" style="animation-delay:1.72s">
-    <text x="464.5" y="253.0" text-anchor="start" fill="#ecfeff" font-size="13.5" font-weight="700">
+    <text x="464.5" y="253.0" text-anchor="start" fill="#f2ede4" font-size="13.5" font-weight="700">
       <tspan x="464.5" dy="0">Machine</tspan>
       <tspan x="464.5" dy="16">Learning</tspan>
     </text>
-    <text x="464.5" y="285.0" text-anchor="start" fill="#2dd4bf" font-size="11" font-weight="600">4.7/5</text>
+    <text x="464.5" y="285.0" text-anchor="start" fill="#e93427" font-size="11" font-weight="600">4.7/5</text>
   </g>
   <g class="lbl" style="animation-delay:1.84s">
-    <text x="464.5" y="443.0" text-anchor="start" fill="#ecfeff" font-size="13.5" font-weight="700">
+    <text x="464.5" y="443.0" text-anchor="start" fill="#f2ede4" font-size="13.5" font-weight="700">
       <tspan x="464.5" dy="0">Explainable</tspan>
       <tspan x="464.5" dy="16">AI (XAI)</tspan>
     </text>
-    <text x="464.5" y="475.0" text-anchor="start" fill="#34d399" font-size="11" font-weight="600">3.9/5</text>
+    <text x="464.5" y="475.0" text-anchor="start" fill="#f2ede4" font-size="11" font-weight="600">3.9/5</text>
   </g>
   <g class="lbl" style="animation-delay:1.96s">
-    <text x="300.0" y="556.0" text-anchor="middle" fill="#ecfeff" font-size="13.5" font-weight="700">
+    <text x="300.0" y="556.0" text-anchor="middle" fill="#f2ede4" font-size="13.5" font-weight="700">
       <tspan x="300.0" dy="0">Natural Language</tspan>
       <tspan x="300.0" dy="16">Processing (NLP)</tspan>
     </text>
-    <text x="300.0" y="588.0" text-anchor="middle" fill="#a3e635" font-size="11" font-weight="600">3.7/5</text>
+    <text x="300.0" y="588.0" text-anchor="middle" fill="#9fc3cb" font-size="11" font-weight="600">3.7/5</text>
   </g>
   <g class="lbl" style="animation-delay:2.08s">
-    <text x="135.5" y="451.0" text-anchor="end" fill="#ecfeff" font-size="13.5" font-weight="700">
+    <text x="135.5" y="451.0" text-anchor="end" fill="#f2ede4" font-size="13.5" font-weight="700">
       <tspan x="135.5" dy="0">SQL</tspan>
     </text>
-    <text x="135.5" y="467.0" text-anchor="end" fill="#facc15" font-size="11" font-weight="600">4.6/5</text>
+    <text x="135.5" y="467.0" text-anchor="end" fill="#f92c1d" font-size="11" font-weight="600">4.6/5</text>
   </g>
   <g class="lbl" style="animation-delay:2.20s">
-    <text x="135.5" y="253.0" text-anchor="end" fill="#ecfeff" font-size="13.5" font-weight="700">
+    <text x="135.5" y="253.0" text-anchor="end" fill="#f2ede4" font-size="13.5" font-weight="700">
       <tspan x="135.5" dy="0">Data</tspan>
       <tspan x="135.5" dy="16">Visualization</tspan>
     </text>
-    <text x="135.5" y="285.0" text-anchor="end" fill="#38bdf8" font-size="11" font-weight="600">4.2/5</text>
+    <text x="135.5" y="285.0" text-anchor="end" fill="#c2413a" font-size="11" font-weight="600">4.2/5</text>
   </g>
-  <text x="300" y="618" text-anchor="middle" fill="#2f857b" font-size="10.5" letter-spacing="1">github.com/diego4yala</text>
+  <text x="300" y="618" text-anchor="middle" fill="#6b727b" font-size="10.5" letter-spacing="1">github.com/diego4yala</text>
 </svg>
